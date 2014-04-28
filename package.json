@@ -1,0 +1,15 @@
+{
+  "name": "elasticsearch-reindex",
+  "version": "0.0.0",
+  "description": "Reindex module for elasticsearch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "elasticsearch",
+    "reindex"
+  ],
+  "author": "Ludwig Magnusson",
+  "license": "MIT"
+}
