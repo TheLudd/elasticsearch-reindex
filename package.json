@@ -11,5 +11,8 @@
     "reindex"
   ],
   "author": "Ludwig Magnusson",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "elasticsearch": "^2.1.4"
+  }
 }
