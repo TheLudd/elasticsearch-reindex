@@ -1,6 +1,6 @@
 {
   "name": "elasticsearch-reindex",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Reindex module for elasticsearch",
   "main": "index.js",
   "scripts": {
