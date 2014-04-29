@@ -13,6 +13,7 @@
   "author": "Ludwig Magnusson",
   "license": "MIT",
   "dependencies": {
-    "elasticsearch": "^2.1.4"
+    "elasticsearch": "^2.1.4",
+    "log4js": "^0.6.14"
   }
 }
